@@ -1,7 +1,10 @@
 __*
+zips/*
 source_pytorch/*
 notebook*
 data/*
 plagiarism_data/*
+.ipynb*
 readme*
 .*
+
